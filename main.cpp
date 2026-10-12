@@ -1,3 +1,6 @@
+// This program is a barebones output of a would-be grading system.
+// It only uses cout statements and no functions.
+
 #include <iostream>
 using namespace std;
 int main() {
